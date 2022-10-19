@@ -1,2 +1,2 @@
-## Taller Practico 2
-Capturar la pantalla del repositorio y enviarl al Canvas
+## Primeros pasos en Git
+Estos son mis primeras practicas con Git
